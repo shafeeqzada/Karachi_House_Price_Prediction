@@ -2,7 +2,7 @@
 
 A machine learning project that predicts house prices in Karachi based on location, size, bedrooms, and bathrooms. The model is deployed as a Streamlit web app.
 
-**Live Demo:** [add your Streamlit link here]
+**Live Demo:** [https://karachi-housepriceprediction.streamlit.app/]
 
 ## Dataset
 - Source: Kaggle (Karachi House Prices 2023), `Cleaned_Data.csv`
